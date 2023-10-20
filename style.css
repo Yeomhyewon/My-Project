@@ -33,6 +33,7 @@ header {
 
 main {
     background-color: #F6F6F6;
+    padding-bottom: 20px;
 }
 
 footer {
@@ -64,6 +65,7 @@ form {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    
 }
 
 .movie {
@@ -177,7 +179,7 @@ div>img {
     bottom: 0;
 
     padding: 10px;
-    margin: 0px 10px 20px 0px;
+    margin: 0px 25px 30px 0px;
 
     border-radius: 15px;
     border: 3px solid #49475e7a;
